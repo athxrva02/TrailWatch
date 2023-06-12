@@ -30,6 +30,7 @@
 		45F5E59A2A36D77C00CF6344 /* UpcomingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpcomingViewController.swift; sourceTree = "<group>"; };
 		45F5E59C2A36D79F00CF6344 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		45F5E59E2A36D7BB00CF6344 /* DownloadsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadsViewController.swift; sourceTree = "<group>"; };
+		45F5E5A02A36E25600CF6344 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +47,7 @@
 		45F5E5772A36D34D00CF6344 = {
 			isa = PBXGroup;
 			children = (
+				45F5E5A02A36E25600CF6344 /* README.md */,
 				45F5E5822A36D34D00CF6344 /* NetflixClone */,
 				45F5E5812A36D34D00CF6344 /* Products */,
 			);
