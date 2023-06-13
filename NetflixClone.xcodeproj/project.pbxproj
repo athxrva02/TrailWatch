@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		455B19CC2A3830B900AE9054 /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 455B19CB2A3830B900AE9054 /* CollectionViewTableViewCell.swift */; };
+		455B19CE2A383AE200AE9054 /* HeroHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 455B19CD2A383AE200AE9054 /* HeroHeaderUIView.swift */; };
 		45F5E5842A36D34D00CF6344 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45F5E5832A36D34D00CF6344 /* AppDelegate.swift */; };
 		45F5E5862A36D34D00CF6344 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45F5E5852A36D34D00CF6344 /* SceneDelegate.swift */; };
 		45F5E5882A36D34D00CF6344 /* MainTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45F5E5872A36D34D00CF6344 /* MainTabBarViewController.swift */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		455B19CB2A3830B900AE9054 /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
+		455B19CD2A383AE200AE9054 /* HeroHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderUIView.swift; sourceTree = "<group>"; };
 		45F5E5802A36D34D00CF6344 /* NetflixClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NetflixClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		45F5E5832A36D34D00CF6344 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		45F5E5852A36D34D00CF6344 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -50,6 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				455B19CB2A3830B900AE9054 /* CollectionViewTableViewCell.swift */,
+				455B19CD2A383AE200AE9054 /* HeroHeaderUIView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -202,6 +205,7 @@
 				45F5E59D2A36D79F00CF6344 /* SearchViewController.swift in Sources */,
 				45F5E5882A36D34D00CF6344 /* MainTabBarViewController.swift in Sources */,
 				455B19CC2A3830B900AE9054 /* CollectionViewTableViewCell.swift in Sources */,
+				455B19CE2A383AE200AE9054 /* HeroHeaderUIView.swift in Sources */,
 				45F5E59F2A36D7BB00CF6344 /* DownloadsViewController.swift in Sources */,
 				45F5E5842A36D34D00CF6344 /* AppDelegate.swift in Sources */,
 				45F5E5862A36D34D00CF6344 /* SceneDelegate.swift in Sources */,
