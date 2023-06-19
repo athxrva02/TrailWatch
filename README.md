@@ -4,7 +4,7 @@ This project aims to make a netflix app that mirrors the official iOS app.
 
 - Created by Atharva Dagaonkar.
 
-Current Progress : https://youtu.be/KCgYDCKqato?t=6701
+Current Progress : https://youtu.be/KCgYDCKqato?t=8646
 
  ## Completed the following:
  - Setup new XCode Project
@@ -17,3 +17,8 @@ Current Progress : https://youtu.be/KCgYDCKqato?t=6701
  - Sending URL Requests and Parsing JSON response from TMDB API
  - Added extension to capitalize first letter in Section Titles
  - Added TrendingMovie and TrendingTV URL Request and JSON Response
+ - Consuming API to fetch Data for every section
+ - Refactoring Models
+ - Creating custom CollectionViewCell
+ - Passing data to the collection view
+ - Viewing poster images inside the CollectionViewCell
