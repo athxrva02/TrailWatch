@@ -33,6 +33,7 @@
 		455B19D12A3AD1E500AE9054 /* Title.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Title.swift; sourceTree = "<group>"; };
 		455B19D32A3AD7F100AE9054 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		4596826D2A402B1700BD40A9 /* TitleCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleCollectionViewCell.swift; sourceTree = "<group>"; };
+		459682742A40C48700BD40A9 /* TODO.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = TODO.md; sourceTree = "<group>"; };
 		45F5E5802A36D34D00CF6344 /* NetflixClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NetflixClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		45F5E5832A36D34D00CF6344 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		45F5E5852A36D34D00CF6344 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -104,6 +105,7 @@
 		45F5E5772A36D34D00CF6344 = {
 			isa = PBXGroup;
 			children = (
+				459682742A40C48700BD40A9 /* TODO.md */,
 				45F5E5A02A36E25600CF6344 /* README.md */,
 				45F5E5822A36D34D00CF6344 /* NetflixClone */,
 				45F5E5812A36D34D00CF6344 /* Products */,

@@ -17,7 +17,6 @@ enum Sections: Int {
 }
 
 
-
 class HomeViewController: UIViewController {
     
     

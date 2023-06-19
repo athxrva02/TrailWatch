@@ -96,6 +96,7 @@ class APICaller {
         task.resume()
         
     }
+    
     func getTopRated (completion: @escaping (Result<[Title], Error>) -> Void) {
         guard let url = URL(string: "\(Constants.baseURL)/3/movie/top_rated?api_key=\(Constants.API_KEY)&language=en-US&page1") else {return}
         
