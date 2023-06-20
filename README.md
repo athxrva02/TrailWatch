@@ -22,3 +22,6 @@ Current Progress : https://youtu.be/KCgYDCKqato?t=8646
  - Creating custom CollectionViewCell
  - Passing data to the collection view
  - Viewing poster images inside the CollectionViewCell
+ - Creating UpcomingTableView inside Upcoming Tab
+ - Creating custom TableViewCell from the upcoming table
+ - Creating TitleViewModel
