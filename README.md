@@ -4,7 +4,7 @@ This project aims to make a netflix app that mirrors the official iOS app.
 
 - Created by Atharva Dagaonkar.
 
-Current Progress : https://youtu.be/KCgYDCKqato?t=8646
+Current Progress : https://youtu.be/KCgYDCKqato?t=10488
 
  ## Completed the following:
  - Setup new XCode Project
@@ -25,3 +25,4 @@ Current Progress : https://youtu.be/KCgYDCKqato?t=8646
  - Creating UpcomingTableView inside Upcoming Tab
  - Creating custom TableViewCell from the upcoming table
  - Creating TitleViewModel
+
