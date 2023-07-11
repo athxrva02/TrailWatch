@@ -1,10 +1,10 @@
-#  Netflix
+#  TrailWatch
 
-This project aims to make a netflix app that mirrors the official iOS app.
+This project aims to make an app that shows the trailers for upcoming movies, TV shows and the latest releases.
 
 - Created by Atharva Dagaonkar.
 
-Current Progress : https://youtu.be/KCgYDCKqato?t=10488
+Current Progress: https://youtu.be/KCgYDCKqato?t=10488
 
  ## Completed the following:
  - Setup new XCode Project
@@ -12,10 +12,10 @@ Current Progress : https://youtu.be/KCgYDCKqato?t=10488
  - Setting HomeViewController TableView
  - Setting homeTableViewCell and its CollectionView
  - Creating Table's HeaderView
- - Customise navigation bar
- - Setting TableView's section titles (Trending, Popular etc.)
- - Sending URL Requests and Parsing JSON response from TMDB API
- - Added extension to capitalize first letter in Section Titles
+ - Customise the navigation bar
+ - Setting tableview's section titles (Trending, Popular etc.)
+ - Sending URL Requests and Parsing JSON responses from TMDB API
+ - Added extension to capitalize the first letter in Section Titles
  - Added TrendingMovie and TrendingTV URL Request and JSON Response
  - Consuming API to fetch Data for every section
  - Refactoring Models
@@ -23,6 +23,6 @@ Current Progress : https://youtu.be/KCgYDCKqato?t=10488
  - Passing data to the collection view
  - Viewing poster images inside the CollectionViewCell
  - Creating UpcomingTableView inside Upcoming Tab
- - Creating custom TableViewCell from the upcoming table
+ - Creating a custom TableViewCell from the upcoming table
  - Creating TitleViewModel
 
