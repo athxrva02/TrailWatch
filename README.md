@@ -1,9 +1,6 @@
 #  TrailWatch
 
 This project aims to make an app that shows the trailers for upcoming movies, TV shows and the latest releases.
-
-- Created by Atharva Dagaonkar.
-
  ## Completed the following:
  - Setup new XCode Project
  - MainTabBarViewController
