@@ -4,8 +4,6 @@ This project aims to make an app that shows the trailers for upcoming movies, TV
 
 - Created by Atharva Dagaonkar.
 
-Current Progress: https://youtu.be/KCgYDCKqato?t=10488
-
  ## Completed the following:
  - Setup new XCode Project
  - MainTabBarViewController
